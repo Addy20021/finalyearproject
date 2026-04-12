@@ -94,6 +94,6 @@ pip install -r requirements.txt
 
 **Adarsh Shetty**  
 GitHub: [Addy20021](https://github.com/Addy20021)
-
+        [Chiram06](chirasmita06@gmail.com)
 
 
